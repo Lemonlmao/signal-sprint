@@ -30,3 +30,7 @@ GitHub will publish the game at `https://YOUR-USERNAME.github.io/REPOSITORY-NAME
 ## Tech
 
 Built with plain HTML, CSS, and JavaScript. No build tools or dependencies are required.
+
+## Purpose/why I built this
+
+- I want to explore and dig deeper when it comes to utilizing AI in my profession. I first tried to utilize AWS builders, but that led me to this. So enjoy!
